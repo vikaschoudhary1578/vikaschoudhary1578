@@ -1,9 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vikas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+░█▀▀█ █▀█ █▀▀ █▀▀ ░█▀▀█ █▀█ █▀▀ █▀▀
+░█   █ █▀  █▀▀ ▀▀█ ░█   █ █▀  ▀▀█ ░▀▀
+░█▄▄█ ▀▀▀ ▀▀▀  ░▀▀ ░█▄▄█ ▀▀▀  ░▀▀ ░▀▀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hi 👋, I'm [Your Name]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![GitHub followers](https://img.shields.io/github/followers/[Your GitHub Username]?style=social)](https://github.com/[Your GitHub Username])
+[![Twitter](https://img.shields.io/twitter/follow/[Your Twitter Username]?style=social)](https://twitter.com/[Your Twitter Username])
+
+A passionate [Your Job Title] from [Your Location]
+
+I'm a highly motivated and results-oriented [Your Job Title] with [Number] years of experience in [Your Expertise]. I have a strong passion for [Your Passion in Tech] and am always eager to learn new technologies and improve my skills.
+
+### Skills
+
+* Programming Languages: [List of Programming Languages with proficiency level]
+* Frameworks & Libraries: [List of Frameworks & Libraries with proficiency level]
+* Tools: [List of Tools with proficiency level]
+* Soft Skills: [List of Soft Skills]
+
+### Experience
+
+* **[Company Name]** | [Job Title] | [Start Date] - [End Date] (or Present)
+    * [List of responsibilities and achievements]
+* **[Company Name]** | [Job Title] | [Start Date] - [End Date]
+    * [List of responsibilities and achievements]
+
+### Education
+
+* **[Degree]** | [University Name] | [Graduation Year]
+    * [List of relevant coursework or projects]
+
+### Projects
+
+* **[Project Name]** | [Link to the project repository]
+    * A brief description of the project and its functionalities.
+* **[Project Name]** | [Link to the project repository]
+    * A brief description of the project and its functionalities.
+
+### Connect with me:
+
+* Website: [Your Website URL]
+* LinkedIn: [Your LinkedIn Profile URL]
+* Email: [Your Email Address]
+
+I'm always open to connecting with other developers and learning from their experiences. Feel free to reach out to me if you have any questions or just want to chat!
